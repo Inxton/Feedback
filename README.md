@@ -1,11 +1,8 @@
-![INXTON](https://github.com/Inxton/documentation/raw/master/assets/logo.png)
 # Feedback 
 
+In case you have anything you would like to tell us about your experience with **Inxton** just create an issue [here](https://github.com/Inxton/Feedback/issues/new/choose). 
 
-In case you have any problem with **Inxton** just create an issue [here](https://github.com/Inxton/Feedback/issues/new/choose). 
-
-We will get back to you shortly
-
+If you have a specific subject related to repositories in this organisation create and issue in the respective repository where this option is available.
 
  [How to create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)
 
@@ -15,16 +12,8 @@ We will get back to you shortly
 
 🐤  Contact us on Twitter [@Inxton](https://twitter.com/inxtonteam)
 
-📽  Checkout our [YouTube](https://www.youtube.com/channel/UCB3EcnWyLSsV5gqSt8PRDXA/featured)
+📽  Check out our [YouTube](https://www.youtube.com/channel/UCB3EcnWyLSsV5gqSt8PRDXA/featured)
 
 🌐  For more info check out our website [INXTON.com](https://www.inxton.com/)
-
-
-# Contributing
-
-We are more than happy to hear your feedback, ideas!
-Just submit it [here](https://github.com/Inxton/Feedback/issues/new/choose)  
-
-
 ---
 Developed with ♥ at [MTS](https://www.mts.sk/) - putting the heart into manufacturing.
