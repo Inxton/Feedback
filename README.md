@@ -1,3 +1,4 @@
+![inxton logo](https://github.com/Inxton/Inxton.Vortex.Framework/raw/master/assets/logo.png)
 # Feedback 
 
 In case you have anything you would like to tell us about your experience with **Inxton** just create an issue [here](https://github.com/Inxton/Feedback/issues/new/choose). 
